@@ -1,7 +1,7 @@
 # Tipping-Point-Code
 This was the final code that was used for our 2022-2023 robot
 
-1-minute autonomous skills video: 
+fully autonomous skills video: 
 
 
 https://user-images.githubusercontent.com/69182320/212143372-f02750ab-54e2-46fd-a71c-112898aad271.mp4
